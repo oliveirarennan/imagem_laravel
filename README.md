@@ -1,3 +1,3 @@
 # Publicando imagem do laravel
-## Imagem no dokcer hub
+## Imagem no docker hub
 https://hub.docker.com/r/oliveirarennan/laravel
