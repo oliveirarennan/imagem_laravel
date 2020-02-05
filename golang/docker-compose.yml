@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  go:
+    build: .
+    volumes:
+      - go_volume:/go/src/app
+  volumes:
+  go_volume:
+    driver: local
+      
